@@ -23,4 +23,6 @@ public class AddressBook {
         addressBook.addBuddy(buddy1);
         addressBook.removeBuddy(buddy1);
     }
+
+    public void eatDirt(){}
 }
